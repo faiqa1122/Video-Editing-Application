@@ -69,18 +69,3 @@ Storage: Local file system + Google Drive integration
 [FAIEQA NAEEM]
 
 
-
-## 📄 **.gitignore FILE CONTENT:**
-Python
-pycache/
-*.pyc
-*.pyo
-*.pyd
-uploads/
-outputs/
-
-Node.js
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
